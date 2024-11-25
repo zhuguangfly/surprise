@@ -1,0 +1,23 @@
+{
+  "greeting": "嘿，生日快乐!",
+  "name": "方悦",
+  "greetingText": "在特别的日子，送上特别的祝福！",
+  "wishText": "愿你每天都有好心情，生活简单快乐，未来闪闪发光！",
+  "imagePath": "img/lydia2.png",
+  "text1": "哇，今天是你的生日啊！ :D",
+  "textInChatBox": "超级超级真诚地祝你生日快乐！希望你这一天特别开心！",
+  "sendButtonLabel": "发个祝福",
+  "text2": "其实吧，我准备了点小心意",
+  "text3": "虽然不是啥惊天动地的大礼物",
+  "text4": "但希望你能觉得这",
+  "text4Adjective": "还挺有趣的",
+  "text5Entry": "因为嘛，",
+  "text5Content": "生日就是要开开心心的！",
+  "smiley": ":)",
+  "bigTextPart1": "祝",
+  "bigTextPart2": "福",
+  "wishHeading": "生日快乐呀！",
+  "outroText": "希望你喜欢这个简单的小祝福！",
+  "replayText": "喜欢的话，欢迎再看一遍哦~",
+  "outroSmiley": "^_^"
+}
